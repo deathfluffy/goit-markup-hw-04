@@ -55,7 +55,7 @@ body {
     padding: 120px 0;
 }
 .link {
-    transform: translateY(0%);
+    
     display: block;
     text-decoration: none;
 
@@ -436,14 +436,11 @@ header{
 img {
     display: block;
 }
-.row-lat .pap {
+.row-lat .tur {
     transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
-.row-lat{
-    transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
-       
-}
-.row-lat:hover .pap{
+
+.row-lat:hover .tur{
     transform: translateY(0%);
 }
 .all {
@@ -474,7 +471,7 @@ img {
     background-color: #404BBF;
     border: 1px solid transparent;
 }
-.row-lat
+
 .all:focus {
     box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1),
         0px 2px 1px rgba(0, 0, 0, 0.08),
