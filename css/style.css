@@ -211,11 +211,12 @@ span {
 }
 .baj {
    
-       
-     
+   
+   
     
-        padding: 188px 0;
-    
+    background-image: url(/images/heroimage.jpg);
+    padding: 188px 0;
+    background-repeat: no-repeat;
     background-color: var(--section-bg-color, #2e2f42);
 }
 .bam{
@@ -637,9 +638,9 @@ img {
 }
 
 .bah {
-    
-        text-align: center;
-            margin-bottom: 8px;
+    box-shadow: inset;
+    text-align: center;
+    margin-bottom: 8px;
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
