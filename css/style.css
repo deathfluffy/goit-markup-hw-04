@@ -265,7 +265,8 @@ span {
             font-size: 16px;
             line-height: 1.5;
             letter-spacing: 0.02em;
-            color: var(--button-bg-color)
+            color: var(--button-bg-color);
+            top: 0;
 }
 .pap {
     font-size: 16px;
@@ -439,7 +440,7 @@ img {
     transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
        
 }
-.row-lat:hover{
+.row-lat:hover .pap{
     transform: translateY(0%);
 }
 .all {
