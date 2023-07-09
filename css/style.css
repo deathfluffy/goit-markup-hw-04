@@ -436,6 +436,9 @@ header{
 img {
     display: block;
 }
+.row-lat{
+transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
+}
 .row-lat .tur {
     transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
