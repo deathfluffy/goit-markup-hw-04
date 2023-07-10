@@ -172,6 +172,11 @@ a.link.bat {
     justify-content: center;
     align-items: center;
 }
+.dar{
+    display: flex;
+    align-items: baseline;
+    margin-right: 120px
+}
 .taw{
     fill: currentColor;
 }
