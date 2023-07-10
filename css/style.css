@@ -249,7 +249,9 @@ span {
 }
 
 .ron {
-    
+    background-color: 0px 1px 6px rgba(46, 47, 66, 0.08),
+        0px 1px 1px rgba(46, 47, 66, 0.16),
+        0px 2px 1px rgba(46, 47, 66, 0.08);
     list-style: none;
     border-radius: 0px 0px 4px 4px;
     flex: 0 0 calc((100% - 72px) / 4);
