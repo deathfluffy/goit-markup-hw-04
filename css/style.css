@@ -895,10 +895,12 @@ h3 {
 .paz:hover{
     background-color: #404bbf;
     border: none;
+    fill: #ffffff
 }
 .paz:focus{
     background-color: #404bbf;
     border: none;
+    fill: #ffffff;
 }
 .bag:hover{
     background-color: #404bbf;
