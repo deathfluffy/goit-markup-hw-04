@@ -912,6 +912,7 @@ h3 {
     background-color: #31d0aa;
 }
 .naj{
+
     width: 40px;
     height: 40px;
 }
@@ -940,13 +941,14 @@ h3 {
      
 }
 .bak{
+    
     width: calc((100% - 120px) / 6);
     height: 88px;
 }
 .may{
          display: flex;
          gap: 24px;
-        
+         width: 100%;
      
        
         
