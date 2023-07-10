@@ -168,6 +168,10 @@ a.link.bat {
     display: flex;
     border-radius: 4px;
     justify-content: center;
+    align-items: center;
+}
+.taw{
+    fill: currentColor;
 }
 .nam:hover{
    border-color: #404bbf;
