@@ -148,18 +148,18 @@ body {
 
 
 }
-.bat::after{
-    content: '';
-    position: absolute;
-    left: 0;
-    bottom: -1px;
-    height: 4px;
-    background-color: #404bbf;
-    border-radius: 2px;
+.bad::after{
+    
+            content: '';
+            position: absolute;
+            left: 0;
+            bottom: -1px;
+            height: 4px;
+            background-color: #404bbf;
+            border-radius: 2px;
+       
 }
-a.link.bat {
-    color: #404bbf;
-}
+
 .nam{
     transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1),
         color 250ms cubic-bezier(0.4, 0, 0.2, 1);
@@ -914,6 +914,7 @@ h3 {
 .baq:focus{
     background-color: #31d0aa;
 }
+
 .naj{
 
     width: 40px;
