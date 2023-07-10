@@ -944,7 +944,9 @@ h3 {
      
 }
 .bak{
-    
+    padding: 0;
+    margin: 0;
+    list-style: none;
     width: calc((100% - 120px) / 6);
     height: 88px;
 }
