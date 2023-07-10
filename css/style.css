@@ -493,7 +493,9 @@ header{
     padding: 100px 0;
 
 }
-
+a.link.bat{
+    color: #404bbf;
+}
 img {
     display: block;
 }
