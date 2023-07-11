@@ -174,7 +174,7 @@ body {
 .dar{
     display: flex;
     align-items: baseline;
-    margin-right: 120px
+  
 }
 .taw{
 
@@ -298,11 +298,11 @@ span {
     margin: 0 auto;
     padding-top: 188px;
     padding-bottom: 188px;
-    background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(/images/people-office.jpg);
-    background-color: var(--section-bg-color, #2e2f42);
+    background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(/images/people-office1.png);
+    background-color: var(--section-bg-color, #2e2f42);                                                                         
 }
 .bam{
-
+          
         text-align: center;
         margin-bottom: 8px;
 
