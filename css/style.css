@@ -902,15 +902,11 @@ h3 {
 .ety:focus{
     fill: #ffffff;
 }
-.paz:hover{
+.paz:hover,
+.paz:focus {
     background-color: #404bbf;
     border: none;
-   
-}
-.paz:focus{
-    background-color: #404bbf;
-    border: none;
-  
+    fill: #ffffff;
 }
 .bag:hover{
     background-color: #404bbf;
