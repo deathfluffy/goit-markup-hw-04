@@ -149,7 +149,7 @@ body {
 
 }
 
-.bat:active::after {
+.bat::after {
         content: '';
             position: absolute;
             left: 0;
