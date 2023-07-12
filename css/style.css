@@ -816,6 +816,7 @@ h3 {
                     0px 2px 1px rgba(46, 47, 66, 0.08);
         }
 .bap {
+    margin-top: 100px;
     margin-bottom: 72px;
     display: flex;
     justify-content: center;
